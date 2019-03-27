@@ -1,4 +1,4 @@
-# Expo Started
+# Expo Starter
 
 ## React Native with Expo Bare Workflow & Unimodules
 
