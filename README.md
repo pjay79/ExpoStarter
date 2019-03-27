@@ -1,6 +1,6 @@
 # Expo Started
 
-## React Native with Expo Bare Worflow & Unimodules
+## React Native with Expo Bare Workflow & Unimodules
 
 ### Linear Gradient
 
