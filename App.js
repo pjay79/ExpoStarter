@@ -14,7 +14,7 @@ const App = () => (
       }}
     >
       <Text style={styles.header}>Expo Starter</Text>
-      <Text style={styles.subHeader}>UNIMODULES</Text>
+      <Text style={styles.subHeader}>- UNIMODULES -</Text>
       <Text style={styles.subHeader}>[ Linear Gradient ]</Text>
     </LinearGradient>
   </View>
