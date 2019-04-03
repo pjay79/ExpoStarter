@@ -57,6 +57,3 @@ buck-out/
 
 # Expo
 .expo
-
-# Cirlcle CI
-.circle
